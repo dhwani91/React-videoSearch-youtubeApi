@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# React_videoSearch_YoutubeAPI
 
 Here,We use Youtube-API,we can search for videos and getting videoList and we can embed video from videoList.
 
